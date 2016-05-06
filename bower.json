@@ -1,0 +1,21 @@
+{
+  "name": "pokecan-web",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Chih-Wei Fang"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dodo0822/pokecan-web",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
